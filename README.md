@@ -1,0 +1,3 @@
+Solution made in python to the exercise "Wordle" from "olinfo" website, where I had to make a code that gives me the number of how many solutions can be given in a word with missing characters...
+
+I did this exercise for getting better at C and Python
